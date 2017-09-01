@@ -3,6 +3,7 @@ Photogrammetric model of a model of Perikles
 
 This repository contains the files and images to create a 3D rendering of a bust of Perikles.
 
+![](bust_of_perikles.gif)
 
 CONTENTS
 ========

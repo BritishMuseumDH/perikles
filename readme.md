@@ -1,3 +1,7 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.164861.svg)](https://doi.org/10.5281/zenodo.164861)
+[![ORCiD](https://img.shields.io/badge/ORCiD-0000--0002--0246--2335-green.svg)](http://orcid.org/0000-0002-0246-2335)
+
+
 Photogrammetric model of a model of Perikles
 ============================================
 
